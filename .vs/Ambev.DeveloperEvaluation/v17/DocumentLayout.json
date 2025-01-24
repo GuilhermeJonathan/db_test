@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilh\\source\\repos\\db_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B62C8404-A5FA-4D58-9398-1E3C55C28D14}|src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj|c:\\users\\guilh\\source\\repos\\db_test\\src\\ambev.developerevaluation.orm\\ambev.developerevaluation.orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B62C8404-A5FA-4D58-9398-1E3C55C28D14}|src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj|solutionrelative:src\\ambev.developerevaluation.orm\\ambev.developerevaluation.orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DDDE39-2D65-4AF5-90D4-F35D87A79009}|src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj|c:\\users\\guilh\\source\\repos\\db_test\\src\\ambev.developerevaluation.ioc\\dependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DDDE39-2D65-4AF5-90D4-F35D87A79009}|src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj|solutionrelative:src\\ambev.developerevaluation.ioc\\dependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DDDE39-2D65-4AF5-90D4-F35D87A79009}|src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj|c:\\users\\guilh\\source\\repos\\db_test\\src\\ambev.developerevaluation.ioc\\moduleinitializers\\infrastructuremoduleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DDDE39-2D65-4AF5-90D4-F35D87A79009}|src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj|solutionrelative:src\\ambev.developerevaluation.ioc\\moduleinitializers\\infrastructuremoduleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62C8404-A5FA-4D58-9398-1E3C55C28D14}|src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj|c:\\users\\guilh\\source\\repos\\db_test\\src\\ambev.developerevaluation.orm\\defaultcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62C8404-A5FA-4D58-9398-1E3C55C28D14}|src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj|solutionrelative:src\\ambev.developerevaluation.orm\\defaultcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\users\\guilh\\source\\repos\\db_test\\src\\ambev.developerevaluation.webapi\\features\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\users\\guilh\\source\\repos\\db_test\\src\\ambev.developerevaluation.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\users\\guilh\\source\\repos\\db_test\\src\\ambev.developerevaluation.application\\users\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\users\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\users\\guilh\\source\\repos\\db_test\\src\\ambev.developerevaluation.application\\users\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\users\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\users\\guilh\\source\\repos\\db_test\\src\\ambev.developerevaluation.application\\users\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\users\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\users\\guilh\\source\\repos\\db_test\\src\\ambev.developerevaluation.webapi\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\users\\guilh\\source\\repos\\db_test\\src\\ambev.developerevaluation.webapi\\common\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\common\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\users\\guilh\\source\\repos\\db_test\\src\\ambev.developerevaluation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyResolver.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.IoC\\DependencyResolver.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.IoC\\DependencyResolver.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.IoC\\DependencyResolver.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.IoC\\DependencyResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:27:02.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ambev.DeveloperEvaluation.ORM",
+              "DocumentMoniker": "C:\\Users\\guilh\\Source\\Repos\\db_test\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj",
+              "ToolTip": "C:\\Users\\guilh\\Source\\Repos\\db_test\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T20:25:43.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefaultContext.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.ORM\\DefaultContext.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.ORM\\DefaultContext.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.ORM\\DefaultContext.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.ORM\\DefaultContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:22:54.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfrastructureModuleInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.IoC\\ModuleInitializers\\InfrastructureModuleInitializer.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.IoC\\ModuleInitializers\\InfrastructureModuleInitializer.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.IoC\\ModuleInitializers\\InfrastructureModuleInitializer.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.IoC\\ModuleInitializers\\InfrastructureModuleInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:42:28.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserHandler.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserHandler.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserHandler.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:40:46.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserValidator.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserValidator.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserValidator.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserValidator.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwB4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:40:28.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserCommand.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:40:17.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T22:42:54.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\UsersController.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\UsersController.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\UsersController.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\UsersController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:39:36.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.WebApi\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Common\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.WebApi\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Common\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:39:25.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.WebApi\\Common\\BaseController.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Common\\BaseController.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.WebApi\\Common\\BaseController.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Common\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:39:18.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\db_test\\src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:38:58.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
