@@ -47,3 +47,5 @@ $RECYCLE.BIN/
 /.vs/db_test/v17/workspaceFileList.bin
 /.vs/VSWorkspaceState.json
 /obj/Docker/ContainerToolsExceptions.json
+/.vs/db_test/v17/.wsuo
+/.vs/slnx.sqlite
