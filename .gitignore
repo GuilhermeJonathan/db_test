@@ -43,3 +43,7 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 *.vsidx
+/.vs/Ambev.DeveloperEvaluation/v17/.suo
+/.vs/db_test/v17/workspaceFileList.bin
+/.vs/VSWorkspaceState.json
+/obj/Docker/ContainerToolsExceptions.json
